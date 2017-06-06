@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://www.jekyllthemes.tk/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://www.jekyllthemes.tk" version="3.4.3">Jekyll</generator><link href="http://www.jekyllthemes.tk/feed.xml" rel="self" type="application/atom+xml" /><link href="http://www.jekyllthemes.tk/" rel="alternate" type="text/html" /><updated>2017-03-22T08:08:47-07:00</updated><id>http://www.jekyllthemes.tk//</id><title type="html">Jekyll • Simple, blog-aware, static sites</title><subtitle>Transform your plain text into static websites and blogs</subtitle><entry><title type="html">Jekyll turns 3.4.0</title><link href="http://www.jekyllthemes.tk/news/2017/01/18/jekyll-3-4-0-released/" rel="alternate" type="text/html" title="Jekyll turns 3.4.0" /><published>2017-01-18T11:19:13-08:00</published><updated>2017-01-18T11:19:13-08:00</updated><id>http://www.jekyllthemes.tk/news/2017/01/18/jekyll-3-4-0-released</id><content type="html" xml:base="http://www.jekyllthemes.tk/news/2017/01/18/jekyll-3-4-0-released/">&lt;p&gt;Hey there! We have a quick update of Jekyll for you to enjoy this January.
+Packed full of bug fixes as usual, thanks to the tireless efforts of our
+exceptional Jekyll community. Three changes to call out:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;If you’re a big fan of &lt;a href=&quot;/docs/filters/&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;where_by_exp&lt;/code&gt;&lt;/a&gt;, you’ll be an
+even bigger fan of &lt;a href=&quot;/docs/filters/&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;group_by_exp&lt;/code&gt;&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Using a custom timezone in Jekyll on Windows? Yeah, sorry that hasn’t ever worked
+properly. We made it possible to accurately &lt;a href=&quot;http://www.jekyllthemes.tk/docs/windows/#timezone-management&quot;&gt;set the timezone using IANA
+timezone codes&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Documentation has been improved, notably on themes, includes and permalinks.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;And &lt;a href=&quot;/docs/history/#v3-4-0&quot;&gt;lots and lots more!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This update was made possible by the dedicated efforts of our excellent
+contributors: Ajay Karwal, Alexey Rogachev, Ashwin Maroli,
+BlueberryFoxtrot, Chase, Chayoung You, Dean Attali, Dmitrii Evdokimov, Don
+Denton, Eldritch Cheese, Fabrice Laporte, Florian Thomas, Frank
+Taillandier, Hugo, Ivan Dmitrievsky, Joel Meyer-Hamme, Josh Habdas, Kenton
+Hansen, Kevin Wojniak, Kurt Anderson, Longwelwind, Max Chadwick, Nicolas
+Hoizey, Nursen, Parker Moore, Pat Hawks, Purplecarrot, Ricardo N Feliciano,
+Rob Crocombe, Roger Ogden, Skylar Challand, Thiago Arrais, Tim Banks, Tom
+Johnson, Tunghsiao Liu, XhmikosR, Zlatan Vasović, alexmalik, brainscript,
+kimbaudi, muratayusuke, penny, and yoostk.&lt;/p&gt;
+
+&lt;p&gt;As always, if you encounter bugs, please do &lt;a href=&quot;https://github.com/jekyll/jekyll/issues&quot;&gt;search the issues&lt;/a&gt;
+and &lt;a href=&quot;https://github.com/jekyll/jekyll/issues/new&quot;&gt;file an issue&lt;/a&gt; if you aren’t able to
+find a resolution. We also have &lt;a href=&quot;https://talk.jekyllthemes.tk&quot;&gt;our Jekyll Talk
+forum&lt;/a&gt; for those of you with general questions
+about how to accomplish certain tasks with Jekyll.&lt;/p&gt;
+
+&lt;p&gt;We have some exciting updates in store for v3.5, and we’re hard at work on
+those already.&lt;/p&gt;
+
+&lt;p&gt;Happy Jekylling!&lt;/p&gt;</content><author><name>parkr</name></author><summary type="html">Hey there! We have a quick update of Jekyll for you to enjoy this January.
+Packed full of bug fixes as usual, thanks to the tireless efforts of our
+exceptional Jekyll community. Three changes to call out:</summary></entry><entry><title type="html">Jekyll 3.3.1 Released</title><link href="http://www.jekyllthemes.tk/news/2016/11/14/jekyll-3-3-1-released/" rel="alternate" type="text/html" title="Jekyll 3.3.1 Released" /><published>2016-11-14T14:29:59-08:00</published><updated>2016-11-14T14:29:59-08:00</updated><id>http://www.jekyllthemes.tk/news/2016/11/14/jekyll-3-3-1-released</id><content type="html" xml:base="http://www.jekyllthemes.tk/news/2016/11/14/jekyll-3-3-1-released/">&lt;p&gt;Hello! We have a bugfix release of Jekyll hot off the presses for you. Key
+fixes to call out:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Only warn about auto-regeneration issues on Windows instead of disabling&lt;/li&gt;
+  &lt;li&gt;Exclude very specific &lt;code class=&quot;highlighter-rouge&quot;&gt;vendor/&lt;/code&gt; subdirectories instead of all of &lt;code class=&quot;highlighter-rouge&quot;&gt;vendor/&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Allow permalink templates to have plaintext underscores&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;..and lots more! Check out the &lt;a href=&quot;/docs/history/#v3-3-1&quot;&gt;full history for more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Happy Jekylling!&lt;/p&gt;</content><author><name>parkr</name></author><summary type="html">Hello! We have a bugfix release of Jekyll hot off the presses for you. Key
+fixes to call out:</summary></entry><entry><title type="html">Jekyll 3.3 is here with better theme support, new URL filters, and tons more</title><link href="http://www.jekyllthemes.tk/news/2016/10/06/jekyll-3-3-is-here/" rel="alternate" type="text/html" title="Jekyll 3.3 is here with better theme support, new URL filters, and tons more" /><published>2016-10-06T11:10:38-07:00</published><updated>2016-10-06T11:10:38-07:00</updated><id>http://www.jekyllthemes.tk/news/2016/10/06/jekyll-3-3-is-here</id><content type="html" xml:base="http://www.jekyllthemes.tk/news/2016/10/06/jekyll-3-3-is-here/">&lt;p&gt;There are tons of great new quality-of-life features you can use in 3.3.
+Three key things you might want to try:&lt;/p&gt;
+
+&lt;h3 id=&quot;1-themes-can-now-ship-static--dynamic-assets-in-an-assets-directory&quot;&gt;1. Themes can now ship static &amp;amp; dynamic assets in an &lt;code class=&quot;highlighter-rouge&quot;&gt;/assets&lt;/code&gt; directory&lt;/h3&gt;
+
+&lt;p&gt;In Jekyll 3.2, we shipped the ability to use a theme that was packaged as a
+&lt;a href=&quot;http://guides.rubygems.org/&quot;&gt;gem&lt;/a&gt;. 3.2 included support for includes,
+layouts, and sass partials. In 3.3, we’re adding assets to that list.&lt;/p&gt;
+
+&lt;p&gt;In an effort to make theme management a bit easier, any files you put into
+&lt;code class=&quot;highlighter-rouge&quot;&gt;/assets&lt;/code&gt; in your theme will be read in as though they were part of the
+user’s site. This means you can ship SCSS and CoffeeScript, images and
+webfonts, and so on – anything you’d consider a part of the
+&lt;em&gt;presentation&lt;/em&gt;. Same rules apply here as in a Jekyll site: if it has YAML
+front matter, it will be converted and rendered. No YAML front matter, and
+it will simply be copied over like a static asset.&lt;/p&gt;
+
+&lt;p&gt;Note that if a user has a file of the same path, the theme content will not
+be included in the site, i.e. a user’s &lt;code class=&quot;highlighter-rouge&quot;&gt;/assets/main.scss&lt;/code&gt; will be read and
+processed if present instead of a theme’s &lt;code class=&quot;highlighter-rouge&quot;&gt;/assets/main.scss&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;See our &lt;a href=&quot;/docs/themes/#assets&quot;&gt;documentation on the subject&lt;/a&gt;
+for more info.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-relative_url-and-absolute_url-filters&quot;&gt;2. &lt;code class=&quot;highlighter-rouge&quot;&gt;relative_url&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;absolute_url&lt;/code&gt; filters&lt;/h3&gt;
+
+&lt;p&gt;Want a clean way to prepend the &lt;code class=&quot;highlighter-rouge&quot;&gt;baseurl&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;url&lt;/code&gt; in your config? These
+new filters have you covered. When working locally, if you set your
+&lt;code class=&quot;highlighter-rouge&quot;&gt;baseurl&lt;/code&gt; to match your deployment environment, say &lt;code class=&quot;highlighter-rouge&quot;&gt;baseurl: &quot;/myproject&quot;&lt;/code&gt;,
+then &lt;code class=&quot;highlighter-rouge&quot;&gt;relative_url&lt;/code&gt; will ensure that this baseurl is prepended to anything
+you pass it:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-liquid&quot; data-lang=&quot;liquid&quot;&gt;&lt;span class=&quot;p&quot;&gt;{{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;/docs/assets/&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;relative_url&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}}&lt;/span&gt; =&amp;gt; /myproject/docs/assets&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;By default, &lt;code class=&quot;highlighter-rouge&quot;&gt;baseurl&lt;/code&gt; is set to &lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;&quot;&lt;/code&gt; and therefore yields (never set to
+&lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;/&quot;&lt;/code&gt;):&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-liquid&quot; data-lang=&quot;liquid&quot;&gt;&lt;span class=&quot;p&quot;&gt;{{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;/docs/assets/&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;relative_url&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}}&lt;/span&gt; =&amp;gt; /docs/assets&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;A result of &lt;code class=&quot;highlighter-rouge&quot;&gt;relative_url&lt;/code&gt; will safely always produce a URL which is
+relative to the domain root. A similar principle applies to &lt;code class=&quot;highlighter-rouge&quot;&gt;absolute_url&lt;/code&gt;.
+It prepends your &lt;code class=&quot;highlighter-rouge&quot;&gt;baseurl&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;url&lt;/code&gt; values, making absolute URL’s all the
+easier to make:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-liquid&quot; data-lang=&quot;liquid&quot;&gt;&lt;span class=&quot;p&quot;&gt;{{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;/docs/assets/&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;absolute_url&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}}&lt;/span&gt; =&amp;gt; http://www.jekyllthemes.tk/myproject/docs/assets&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;3-siteurl-is-set-by-the-development-server&quot;&gt;3. &lt;code class=&quot;highlighter-rouge&quot;&gt;site.url&lt;/code&gt; is set by the development server&lt;/h3&gt;
+
+&lt;p&gt;When you run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt; locally, it starts a web server, usually at
+&lt;code class=&quot;highlighter-rouge&quot;&gt;http://localhost:4000&lt;/code&gt;, that you use to preview your site during
+development. If you are using the new &lt;code class=&quot;highlighter-rouge&quot;&gt;absolute_url&lt;/code&gt; filter, or using
+&lt;code class=&quot;highlighter-rouge&quot;&gt;site.url&lt;/code&gt; anywhere, you have probably had to create a development config
+which resets the &lt;code class=&quot;highlighter-rouge&quot;&gt;url&lt;/code&gt; value to point to &lt;code class=&quot;highlighter-rouge&quot;&gt;http://localhost:4000&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;No longer! When you run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, Jekyll will build your site with
+the value of the &lt;code class=&quot;highlighter-rouge&quot;&gt;host&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;port&lt;/code&gt;, and SSL-related options. This defaults to
+&lt;code class=&quot;highlighter-rouge&quot;&gt;url: http://localhost:4000&lt;/code&gt;. When you are developing locally, &lt;code class=&quot;highlighter-rouge&quot;&gt;site.url&lt;/code&gt;
+will yield &lt;code class=&quot;highlighter-rouge&quot;&gt;http://localhost:4000&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;This happens by default when running Jekyll locally. It will not be set if
+you set &lt;code class=&quot;highlighter-rouge&quot;&gt;JEKYLL_ENV=production&lt;/code&gt; and run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;. If &lt;code class=&quot;highlighter-rouge&quot;&gt;JEKYLL_ENV&lt;/code&gt; is
+any value except &lt;code class=&quot;highlighter-rouge&quot;&gt;development&lt;/code&gt; (its default value), Jekyll will not
+overwrite the value of &lt;code class=&quot;highlighter-rouge&quot;&gt;url&lt;/code&gt; in your config. And again, this only applies
+to serving, not to building.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-lot-more&quot;&gt;A &lt;em&gt;lot&lt;/em&gt; more!&lt;/h2&gt;
+
+&lt;p&gt;There are dozens of bug fixes and minor improvements to make your Jekyll
+experience better than ever. With every Jekyll release, we strive to bring
+greater stability and reliability to your everyday development workflow.&lt;/p&gt;
+
+&lt;p&gt;As always, thanks to our many contributors who contributed countless hours
+of their free time to making this release happen:&lt;/p&gt;
+
+&lt;p&gt;Anatoliy Yastreb, Anthony Gaudino, Antonio, Ashwin Maroli, Ben Balter,
+Charles Horn, Chris Finazzo, Daniel Chapman, David Zhang, Eduardo
+Bouças, Edward Thomson, Eloy Espinaco, Florian Thomas, Frank Taillandier,
+Gerardo, Heng Kwokfu, Heng, K. (Stephen), Jeff Kolesky, Jonathan Thornton,
+Jordon Bedwell, Jussi Kinnula, Júnior Messias, Kyle O’Brien, Manmeet Gill,
+Mark H. Wilkinson, Marko Locher, Mertcan GÖKGÖZ, Michal Švácha, Mike
+Kasberg, Nadjib Amar, Nicolas Hoizey, Nicolas Porcel, Parker Moore, Pat
+Hawks, Patrick Marsceill, Stephen Checkoway, Stuart Kent, XhmikosR, Zlatan
+Vasović, mertkahyaoglu, shingo-nakanishi, and vohedge.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/docs/history/#v3-3-0&quot;&gt;Full release notes&lt;/a&gt; are available
+for your perusal. If you notice any issues, please don’t hesitate to file a
+bug report.&lt;/p&gt;
+
+&lt;p&gt;Happy Jekylling!&lt;/p&gt;</content><author><name>parkr</name></author><summary type="html">There are tons of great new quality-of-life features you can use in 3.3.
+Three key things you might want to try:</summary></entry><entry><title type="html">Jekyll Admin Initial Release</title><link href="http://www.jekyllthemes.tk/news/2016/08/24/jekyll-admin-initial-release/" rel="alternate" type="text/html" title="Jekyll Admin Initial Release" /><published>2016-08-24T23:50:00-07:00</published><updated>2016-08-24T23:50:00-07:00</updated><id>http://www.jekyllthemes.tk/news/2016/08/24/jekyll-admin-initial-release</id><content type="html" xml:base="http://www.jekyllthemes.tk/news/2016/08/24/jekyll-admin-initial-release/">&lt;p&gt;&lt;a href=&quot;http://www.jekyllthemes.tk/news/2016/06/03/update-on-jekyll-s-google-summer-of-code-projects/&quot;&gt;Jekyll’s Google Summer of Code Project&lt;/a&gt; has concluded. After three months of hard (but fun) work with my mentors @benbalter, @jldec, and @parkr, I’m proud to announce &lt;a href=&quot;https://github.com/jekyll/jekyll-admin&quot;&gt;Jekyll Admin&lt;/a&gt;’s &lt;a href=&quot;https://github.com/jekyll/jekyll-admin/releases/tag/v0.1.0&quot;&gt;initial release&lt;/a&gt;. Jekyll admin is a Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites. You can start to use it right away by following &lt;a href=&quot;https://github.com/jekyll/jekyll-admin#installation&quot;&gt;these instructions&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As a Google Summer of Code student, I feel very lucky to be part of a project that the community has been wanting for such a long time. The three-month Google Summer of Code period was a great journey. It was a lot of fun developing the project and seeing how it could help the community, and going forward, we are really excited to see where the project goes with the help of the amazing Jekyll community.&lt;/p&gt;
+
+&lt;p&gt;I would like to thank my mentors who embraced me as their teammate and guided me throughout the process. They have put a lot of work and time to mentor me and helped me with everything. It was a great pleasure to work with them. I also would like to thank the wonderful Jekyll community for making Jekyll what it is today. It was amazing to see the community contribute to the project and give their feedback
+prior to its release. I’m sure that they will support Jekyll Admin as much as they can and move Jekyll even further.&lt;/p&gt;
+
+&lt;p&gt;Please let us know what you think about &lt;a href=&quot;https://github.com/jekyll/jekyll-admin&quot;&gt;Jekyll Admin&lt;/a&gt; and feel free to &lt;a href=&quot;https://github.com/jekyll/jekyll-admin/blob/master/.github/CONTRIBUTING.md&quot;&gt;contribute&lt;/a&gt;. Your feedback and contributions are greatly appreciated.&lt;/p&gt;
+
+&lt;p&gt;Happy (graphical) Jekylling!&lt;/p&gt;</content><author><name>mertkahyaoglu</name></author><summary type="html">Jekyll’s Google Summer of Code Project has concluded. After three months of hard (but fun) work with my mentors @benbalter, @jldec, and @parkr, I’m proud to announce Jekyll Admin’s initial release. Jekyll admin is a Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites. You can start to use it right away by following these instructions.</summary></entry><entry><title type="html">Jekyll 3.2.1 Released with Fix for Windows</title><link href="http://www.jekyllthemes.tk/news/2016/08/02/jekyll-3-2-1-released/" rel="alternate" type="text/html" title="Jekyll 3.2.1 Released with Fix for Windows" /><published>2016-08-02T13:20:11-07:00</published><updated>2016-08-02T13:20:11-07:00</updated><id>http://www.jekyllthemes.tk/news/2016/08/02/jekyll-3-2-1-released</id><content type="html" xml:base="http://www.jekyllthemes.tk/news/2016/08/02/jekyll-3-2-1-released/">&lt;p&gt;Well, 3.2.0 has been a success, but with one fatal flaw: it doesn’t work on
+Windows! Sorry, Windows users. Hot on the trail of 3.2.0, this release
+should squash that :bug:. Sorry about that!&lt;/p&gt;
+
+&lt;p&gt;This release also fixes an issue when using &lt;a href=&quot;/docs/themes/&quot;&gt;gem-based themes&lt;/a&gt;
+where the theme was rejected if it existed behind a symlink. This is a
+common setup for the various ruby version managers, and for Ruby installed
+via Homebrew. Props to @benbalter for fixing that up.&lt;/p&gt;
+
+&lt;p&gt;Thanks to the contributors for this release: Adam Petrie, Ben Balter,
+Daniel Chapman, DirtyF, Gary Ewan Park, Jordon Bedwell, and Parker Moore.&lt;/p&gt;
+
+&lt;p&gt;As always, you can see our full changelog on &lt;a href=&quot;/docs/history/&quot;&gt;the History page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Happy Jekylling!&lt;/p&gt;</content><author><name>parkr</name></author><summary type="html">Well, 3.2.0 has been a success, but with one fatal flaw: it doesn’t work on
+Windows! Sorry, Windows users. Hot on the trail of 3.2.0, this release
+should squash that :bug:. Sorry about that!</summary></entry><entry><title type="html">Jekyll turns 3.2</title><link href="http://www.jekyllthemes.tk/news/2016/07/26/jekyll-3-2-0-released/" rel="alternate" type="text/html" title="Jekyll turns 3.2" /><published>2016-07-26T15:06:49-07:00</published><updated>2016-07-26T15:06:49-07:00</updated><id>http://www.jekyllthemes.tk/news/2016/07/26/jekyll-3-2-0-released</id><content type="html" xml:base="http://www.jekyllthemes.tk/news/2016/07/26/jekyll-3-2-0-released/">&lt;p&gt;Happy Day! Jekyll v3.2.0 is out, and packed full of goodies.&lt;/p&gt;
+
+&lt;p&gt;Our flagship feature for this release has been &lt;strong&gt;themes&lt;/strong&gt;. &lt;em&gt;Themes?!&lt;/em&gt;, you
+say? Yes, proper, versionable, releasable, first-class themes. We’re pretty
+stoked about it and we hope you like building and using them. For now, it
+only supports layouts, includes, and sass, but we have plans to include
+static assets like images and CSS/JS in a future release. &lt;a href=&quot;/docs/themes/&quot;&gt;Read more about
+it in the docs.&lt;/a&gt; Our site template generated by &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt;
+now dogfoods this feature, using the &lt;a href=&quot;https://github.com/jekyll/minima&quot;&gt;minima&lt;/a&gt; theme.&lt;/p&gt;
+
+&lt;p&gt;Some other notable changes:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Symlinks are allowed as long as they target a file in the site source&lt;/li&gt;
+  &lt;li&gt;Explicit support for Ruby 2.0.x was dropped&lt;/li&gt;
+  &lt;li&gt;Added an &lt;code class=&quot;highlighter-rouge&quot;&gt;:after_init&lt;/code&gt; Hook&lt;/li&gt;
+  &lt;li&gt;Added a &lt;code class=&quot;highlighter-rouge&quot;&gt;where_exp&lt;/code&gt; filter to provide more powerful filtering&lt;/li&gt;
+  &lt;li&gt;Added a &lt;code class=&quot;highlighter-rouge&quot;&gt;link&lt;/code&gt; liquid tag which can be used to generate URL’s for any
+post or document based on its path relative to the site source&lt;/li&gt;
+  &lt;li&gt;… and lots more!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As always, there is &lt;a href=&quot;/docs/history/#v3-2-0&quot;&gt;a full list of changes&lt;/a&gt; for
+your perusal.&lt;/p&gt;
+
+&lt;p&gt;Every release is made possible by the countless hours of hard work that our
+fellow community members put into sending patches, filing thoughtful
+patches, and so on. These release took the work of over 80 people:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Aaron Sky&lt;/li&gt;
+  &lt;li&gt;Adam Hollett&lt;/li&gt;
+  &lt;li&gt;ajhit406&lt;/li&gt;
+  &lt;li&gt;Aki&lt;/li&gt;
+  &lt;li&gt;Alex Hanselka&lt;/li&gt;
+  &lt;li&gt;Alex Hoyau&lt;/li&gt;
+  &lt;li&gt;Alex Ivkin&lt;/li&gt;
+  &lt;li&gt;Alex Kitchens&lt;/li&gt;
+  &lt;li&gt;Alex Plescan&lt;/li&gt;
+  &lt;li&gt;Alex Wood&lt;/li&gt;
+  &lt;li&gt;Anatoliy Yastreb&lt;/li&gt;
+  &lt;li&gt;Andrew Artajos&lt;/li&gt;
+  &lt;li&gt;Andrew Munsell&lt;/li&gt;
+  &lt;li&gt;AndrewCz&lt;/li&gt;
+  &lt;li&gt;Ankush Menat&lt;/li&gt;
+  &lt;li&gt;Anthony Smith&lt;/li&gt;
+  &lt;li&gt;Ben Balter&lt;/li&gt;
+  &lt;li&gt;Brian Jones&lt;/li&gt;
+  &lt;li&gt;Brint O’Hearn&lt;/li&gt;
+  &lt;li&gt;Chayoung You&lt;/li&gt;
+  &lt;li&gt;Chris Wells&lt;/li&gt;
+  &lt;li&gt;chrisfinazzo&lt;/li&gt;
+  &lt;li&gt;Clark Winkelmann&lt;/li&gt;
+  &lt;li&gt;Dan Allen&lt;/li&gt;
+  &lt;li&gt;David Von Lehman&lt;/li&gt;
+  &lt;li&gt;David Zhang&lt;/li&gt;
+  &lt;li&gt;Derek Gottlieb&lt;/li&gt;
+  &lt;li&gt;Enes Gönültaş&lt;/li&gt;
+  &lt;li&gt;EricH&lt;/li&gt;
+  &lt;li&gt;Erick Sasse&lt;/li&gt;
+  &lt;li&gt;Eugênio Cabral&lt;/li&gt;
+  &lt;li&gt;Florian Thomas&lt;/li&gt;
+  &lt;li&gt;Frank Taillandier&lt;/li&gt;
+  &lt;li&gt;Henry Goodman&lt;/li&gt;
+  &lt;li&gt;Henry Wright&lt;/li&gt;
+  &lt;li&gt;Hugo Duksis&lt;/li&gt;
+  &lt;li&gt;Hugo Giraudel&lt;/li&gt;
+  &lt;li&gt;Jack Reed&lt;/li&gt;
+  &lt;li&gt;Jamie Bilinski&lt;/li&gt;
+  &lt;li&gt;Jeff Kolesky&lt;/li&gt;
+  &lt;li&gt;Jens Willmer&lt;/li&gt;
+  &lt;li&gt;Jordon Bedwell&lt;/li&gt;
+  &lt;li&gt;Josh Waller&lt;/li&gt;
+  &lt;li&gt;Joshua Barnett&lt;/li&gt;
+  &lt;li&gt;Keegan Mullaney&lt;/li&gt;
+  &lt;li&gt;Kevin Miller&lt;/li&gt;
+  &lt;li&gt;Krzysztof Jurewicz&lt;/li&gt;
+  &lt;li&gt;Loren Rogers&lt;/li&gt;
+  &lt;li&gt;Marcos Brito&lt;/li&gt;
+  &lt;li&gt;Marcus Stollsteimer&lt;/li&gt;
+  &lt;li&gt;Matt Rogers&lt;/li&gt;
+  &lt;li&gt;Michaël Guitton&lt;/li&gt;
+  &lt;li&gt;Mike Linksvayer&lt;/li&gt;
+  &lt;li&gt;Mike Neumegen&lt;/li&gt;
+  &lt;li&gt;Nathan Hazout&lt;/li&gt;
+  &lt;li&gt;Nick&lt;/li&gt;
+  &lt;li&gt;No&lt;/li&gt;
+  &lt;li&gt;nscyclone&lt;/li&gt;
+  &lt;li&gt;Parker Moore&lt;/li&gt;
+  &lt;li&gt;Pat Hawks&lt;/li&gt;
+  &lt;li&gt;Pierre Fenoll&lt;/li&gt;
+  &lt;li&gt;Praveen Kumar&lt;/li&gt;
+  &lt;li&gt;Rares Vernica&lt;/li&gt;
+  &lt;li&gt;Saleem Rashid&lt;/li&gt;
+  &lt;li&gt;Sam Dutton&lt;/li&gt;
+  &lt;li&gt;Shengbin Meng&lt;/li&gt;
+  &lt;li&gt;Shinn Kondo&lt;/li&gt;
+  &lt;li&gt;Shinnosuke Kondo&lt;/li&gt;
+  &lt;li&gt;skim&lt;/li&gt;
+  &lt;li&gt;Sondre Nilsen&lt;/li&gt;
+  &lt;li&gt;Spencer A. Bywater&lt;/li&gt;
+  &lt;li&gt;Stephen Checkoway&lt;/li&gt;
+  &lt;li&gt;Suriyaa Kudo&lt;/li&gt;
+  &lt;li&gt;surrim&lt;/li&gt;
+  &lt;li&gt;TheLucasMoore&lt;/li&gt;
+  &lt;li&gt;Thomas Wood&lt;/li&gt;
+  &lt;li&gt;Tim Wisniewski&lt;/li&gt;
+  &lt;li&gt;Tom Fejfar&lt;/li&gt;
+  &lt;li&gt;Tony Garnock-Jones&lt;/li&gt;
+  &lt;li&gt;Vincent Wochnik&lt;/li&gt;
+  &lt;li&gt;XhmikosR&lt;/li&gt;
+  &lt;li&gt;Yanis Vieilly&lt;/li&gt;
+  &lt;li&gt;Yordis Prieto&lt;/li&gt;
+  &lt;li&gt;Zack Spencer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We are so grateful to all of you for helping to put together a terrific
+release. Thank you!&lt;/p&gt;
+
+&lt;p&gt;Happy Jekylling!&lt;/p&gt;</content><author><name>parkr</name></author><summary type="html">Happy Day! Jekyll v3.2.0 is out, and packed full of goodies.</summary></entry><entry><title type="html">Jekyll’s Google Summer of Code Project: The CMS You Always Wanted</title><link href="http://www.jekyllthemes.tk/news/2016/06/03/update-on-jekyll-s-google-summer-of-code-projects/" rel="alternate" type="text/html" title="Jekyll's Google Summer of Code Project: The CMS You Always Wanted" /><published>2016-06-03T13:21:02-07:00</published><updated>2016-06-03T13:21:02-07:00</updated><id>http://www.jekyllthemes.tk/news/2016/06/03/update-on-jekyll-s-google-summer-of-code-projects</id><content type="html" xml:base="http://www.jekyllthemes.tk/news/2016/06/03/update-on-jekyll-s-google-summer-of-code-projects/">&lt;p&gt;This year, Jekyll applied to be a part of &lt;a href=&quot;https://summerofcode.withgoogle.com/how-it-works/&quot;&gt;Google Summer of Code&lt;/a&gt;. Students were able to propose any project related to Jekyll. With a gracious sponsorship from GitHub and the participation of myself, @benbalter and @jldec, Jekyll was able to accept two students for the 2016 season, @mertkahyaoglu and @rush-skills.&lt;/p&gt;
+
+&lt;p&gt;These students are working on a project that fills a huge need for the community: &lt;em&gt;a graphical solution for managing your site’s content.&lt;/em&gt; Current plans include a fully-integrated admin which spins up when you run jekyll serve and provides a friendly web interface for creating and editing your content. The server and web interface will speak a common HTTP interface so either piece could be switched out for, e.g. a server which writes directly to a repository on GitHub.&lt;/p&gt;
+
+&lt;p&gt;The strength of text files as the storage medium for content has been part of Jekyll’s success. &lt;a href=&quot;/&quot;&gt;Our homepage&lt;/a&gt; lauds the absence of a traditional SQL database when using Jekyll – your content should be what demands your time, not pesky database downtime. Unfortunately, understanding of the structure of a Jekyll site takes some work, enough that for some users, it’s prohibitive to using Jekyll to accomplish their publishing goals.&lt;/p&gt;
+
+&lt;p&gt;Mert and Ankur both applied to take on this challenge and agreed to split the project, one taking on the web interface and the other taking on the backend. We’re very excited to see a fully-functional CMS for Jekyll at the end of the summer produced by these excellent community members, and we hope you’ll join us in cheering them on and sharing our gratitude for all their hard work.&lt;/p&gt;
+
+&lt;p&gt;Thanks, as always, for being part of such a wonderful community that made this all possible. I’m honored to work with each of you to create something folks all around the globe find a joy to use. I look forward to our continued work to move Jekyll forward.&lt;/p&gt;
+
+&lt;p&gt;As always, Happy Jekylling!&lt;/p&gt;</content><author><name>parkr</name></author><summary type="html">This year, Jekyll applied to be a part of Google Summer of Code. Students were able to propose any project related to Jekyll. With a gracious sponsorship from GitHub and the participation of myself, @benbalter and @jldec, Jekyll was able to accept two students for the 2016 season, @mertkahyaoglu and @rush-skills.</summary></entry><entry><title type="html">Jekyll 3.1.6 Released</title><link href="http://www.jekyllthemes.tk/news/2016/05/19/jekyll-3-1-6-released/" rel="alternate" type="text/html" title="Jekyll 3.1.6 Released" /><published>2016-05-19T12:48:14-07:00</published><updated>2016-05-19T12:48:14-07:00</updated><id>http://www.jekyllthemes.tk/news/2016/05/19/jekyll-3-1-6-released</id><content type="html" xml:base="http://www.jekyllthemes.tk/news/2016/05/19/jekyll-3-1-6-released/">&lt;p&gt;Upon releasing 3.1.5 and kicking the tires, we noticed a glaring bug: our
+beloved &lt;code class=&quot;highlighter-rouge&quot;&gt;jsonify&lt;/code&gt; filter doesn’t work! With that, our work was cut out for
+us and we decided a 3.1.6 was necessary. This release restores sanity to
+our object-to-JSON generation in Liquid and we hope you enjoy.&lt;/p&gt;
+
+&lt;p&gt;For the gory details, see &lt;a href=&quot;https://github.com/jekyll/jekyll/pull/4914&quot;&gt;the pull
+request&lt;/a&gt; or &lt;a href=&quot;/docs/history/#v3-1-6&quot;&gt;the
+changelog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Happy Jekylling!&lt;/p&gt;</content><author><name>parkr</name></author><summary type="html">Upon releasing 3.1.5 and kicking the tires, we noticed a glaring bug: our
+beloved jsonify filter doesn’t work! With that, our work was cut out for
+us and we decided a 3.1.6 was necessary. This release restores sanity to
+our object-to-JSON generation in Liquid and we hope you enjoy.</summary></entry><entry><title type="html">Jekyll 3.1.5 Released</title><link href="http://www.jekyllthemes.tk/news/2016/05/18/jekyll-3-1-5-released/" rel="alternate" type="text/html" title="Jekyll 3.1.5 Released" /><published>2016-05-18T21:35:27-07:00</published><updated>2016-05-18T21:35:27-07:00</updated><id>http://www.jekyllthemes.tk/news/2016/05/18/jekyll-3-1-5-released</id><content type="html" xml:base="http://www.jekyllthemes.tk/news/2016/05/18/jekyll-3-1-5-released/">&lt;p&gt;There’s always at least one bug, right? :)&lt;/p&gt;
+
+&lt;p&gt;Hot on the trails of &lt;a href=&quot;/news/2016/05/18/jekyll-3-1-4-released/&quot;&gt;v3.1.4&lt;/a&gt;, we
+bring you v3.1.5! It fixes one bug around requiring the &lt;code class=&quot;highlighter-rouge&quot;&gt;ExcerptDrop&lt;/code&gt;,
+which only affects Linux. For the gory details, see &lt;a href=&quot;https://github.com/jekyll/jekyll/pull/4912&quot;&gt;the pull
+request for the fix&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Happy Jekylling!&lt;/p&gt;</content><author><name>parkr</name></author><summary type="html">There’s always at least one bug, right? :)</summary></entry><entry><title type="html">Jekyll 3.1.4 “Stability Sam” Released</title><link href="http://www.jekyllthemes.tk/news/2016/05/18/jekyll-3-1-4-released/" rel="alternate" type="text/html" title="Jekyll 3.1.4 &quot;Stability Sam&quot; Released" /><published>2016-05-18T16:50:37-07:00</published><updated>2016-05-18T16:50:37-07:00</updated><id>http://www.jekyllthemes.tk/news/2016/05/18/jekyll-3-1-4-released</id><content type="html" xml:base="http://www.jekyllthemes.tk/news/2016/05/18/jekyll-3-1-4-released/">&lt;p&gt;Hey Jekyllites!&lt;/p&gt;
+
+&lt;p&gt;Today, we released v3.1.4 in an effort to bring more stability to the v3.1.x series. This bugfix release consists of:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A fix for &lt;code class=&quot;highlighter-rouge&quot;&gt;layout&lt;/code&gt; in Liquid where values would carry over from one document to the next&lt;/li&gt;
+  &lt;li&gt;A fix for &lt;code class=&quot;highlighter-rouge&quot;&gt;layout&lt;/code&gt; in Liquid where a parent layout (e.g. &lt;code class=&quot;highlighter-rouge&quot;&gt;default&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;base&lt;/code&gt;) would overwrite the metadata of the child layout (e.g. &lt;code class=&quot;highlighter-rouge&quot;&gt;post&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;special&lt;/code&gt;).&lt;/li&gt;
+  &lt;li&gt;A fix where &lt;code class=&quot;highlighter-rouge&quot;&gt;page.excerpt&lt;/code&gt; referencing its excerpt would cause an infinite loop of recursive horror.&lt;/li&gt;
+  &lt;li&gt;We added &lt;code class=&quot;highlighter-rouge&quot;&gt;Configuration.from&lt;/code&gt; and the great permalink fix from &lt;a href=&quot;/news/2016/04/19/jekyll-3-0-4-released/&quot;&gt;v3.0.4&lt;/a&gt; to the v3.1.x series&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;site.collections&lt;/code&gt; in Liquid is now sorted alphabetically by label, so &lt;code class=&quot;highlighter-rouge&quot;&gt;docs&lt;/code&gt; shows up before &lt;code class=&quot;highlighter-rouge&quot;&gt;posts&lt;/code&gt; reliably.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The fixes for &lt;code class=&quot;highlighter-rouge&quot;&gt;layout&lt;/code&gt; may not be seamless for everyone, but we believe they will be the “right thing to do” going forward.&lt;/p&gt;
+
+&lt;p&gt;We are alwawys striving to make Jekyll more straight-forward to use. Please do open an issue if you believe an aspect of Jekyll’s user experience isn’t up to par.&lt;/p&gt;
+
+&lt;p&gt;For a full history of our changes, &lt;a href=&quot;/docs/history/#v3-1-4&quot;&gt;see the changelog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As always, Happy Jekylling!&lt;/p&gt;</content><author><name>parkr</name></author><summary type="html">Hey Jekyllites!</summary></entry></feed>
